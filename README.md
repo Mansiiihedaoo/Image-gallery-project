@@ -1,3 +1,4 @@
+Project link : https://mansiiihedaoo.github.io/Image-gallery-project/
 # Image-gallery-project
 This project is a simple HTML and CSS-based image gallery. It provides a clean and responsive layout for showcasing a collection of images.
 
